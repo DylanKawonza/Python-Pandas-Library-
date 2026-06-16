@@ -17,6 +17,9 @@ I learned how to load and explore datasets using:
 
 These tools helped me quickly understand the structure and quality of the data.
 
+##Using the pd.read to read different files 
+<img width="1813" height="674" alt="image" src="https://github.com/user-attachments/assets/2c32eec8-fe9b-4067-9939-ea4ae81e8153" />
+
 ---
 
 ### 🔍 Filtering & Subsetting Data
@@ -99,6 +102,10 @@ I practised:
 - Creating new calculated fields  
 
 These tasks improved my confidence in preparing datasets for analysis.
+
+##During this excercise I Created a new column that would state if the car was manual or automatic and calculate the fuel efficiency of the viechle 
+<img width="1810" height="556" alt="image" src="https://github.com/user-attachments/assets/9578b727-5a79-4dec-831f-7777af519396" />
+
 
 ---
 
